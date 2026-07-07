@@ -19,6 +19,54 @@ xmlns:expr="http://www.google.com/2005/gml/expr">
 
 <body>
 
+  <header class="site-header">
+
+<div class="navbar">
+
+<a class="logo" href="/">
+
+<img src="YOUR_LOGO_URL"/>
+
+<div class="logo-text">
+
+<h2>MPN Classifieds</h2>
+
+<span>India's Smart Classified Advertising Platform</span>
+
+</div>
+
+</a>
+
+<div class="search-box">
+
+<input
+type="text"
+placeholder="Search Jobs, Property, Business...">
+
+<button class="search-btn">
+
+🔍
+
+</button>
+
+</div>
+
+<div class="date-box">
+
+<input type="date">
+
+</div>
+
+<button class="menu-btn">
+
+☰
+
+</button>
+
+</div>
+
+</header>
+
 <!-- Header -->
 <b:section id='header' maxwidgets='1' showaddelement='no'/>
 
