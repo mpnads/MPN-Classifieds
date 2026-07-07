@@ -1,1 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html
+xmlns="http://www.w3.org/1999/xhtml"
+xmlns:b="http://www.google.com/2005/gml/b"
+xmlns:data="http://www.google.com/2005/gml/data"
+xmlns:expr="http://www.google.com/2005/gml/expr">
 
+<head>
+
+<meta charset='UTF-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+
+<title><data:view.title.escaped/></title>
+
+<b:include data='blog' name='all-head-content'/>
+
+</head>
+
+<body>
+
+<!-- Header -->
+<b:section id='header' maxwidgets='1' showaddelement='no'/>
+
+<!-- Hero -->
+<b:section id='hero' maxwidgets='1' showaddelement='no'/>
+
+<!-- Categories -->
+<b:section id='categories' maxwidgets='1' showaddelement='no'/>
+
+<!-- Featured Ads -->
+<b:section id='featuredads' maxwidgets='1' showaddelement='no'/>
+
+<!-- Latest Ads -->
+<b:section id='latestads' maxwidgets='1' showaddelement='no'/>
+
+<!-- Footer -->
+<b:section id='footer' maxwidgets='4' showaddelement='yes'/>
+
+</body>
+</html>
